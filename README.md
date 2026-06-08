@@ -89,6 +89,6 @@ docker compose logs db       # logs do banco
 
 ## 👥 Equipe
 
-- Pessoa 1 — Docker Compose e infraestrutura
-- Pessoa 2 — Backend, banco de dados e testes
-- Pessoa 3 — CI/CD, segurança e deploy
+- Ricardo Wesgueber 2514290038 — Docker Compose e infraestrutura
+- Káthia Faria 2514290053 — Backend, banco de dados e testes
+- Breno Brandão 2514290011 — CI/CD, segurança e deploy
